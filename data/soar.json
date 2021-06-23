@@ -1,19 +1,19 @@
 {
     "polesArray" : [
-        {"id":0,  "lat": 42.995254771, "lon": -78.796842098, "elevMSLmeters": 180.43, "heightMeters": 25.908, 'elevMSLcesiumMeters': 144.847741210444}, 
-        {"id":1,  "lat": 42.995348937, "lon": -78.796745539, "elevMSLmeters": 180.61, "heightMeters": 25.908, 'elevMSLcesiumMeters': 144.9459120558517}, 
-        {"id":2,  "lat": 42.995439180, "lon": -78.796648979, "elevMSLmeters": 180.69, "heightMeters": 25.908, 'elevMSLcesiumMeters': 145.03806907152614}, 
-        {"id":3,  "lat": 42.995505881, "lon": -78.796557784, "elevMSLmeters": 180.86, "heightMeters": 25.908, 'elevMSLcesiumMeters': 145.09670850492824}, 
-        {"id":4,  "lat": 42.995588276, "lon": -78.796713352, "elevMSLmeters": 181.16, "heightMeters": 25.908, 'elevMSLcesiumMeters': 145.29735664989906}, 
-        {"id":5,  "lat": 42.995674594, "lon": -78.796863556, "elevMSLmeters": 181.33, "heightMeters": 25.908, 'elevMSLcesiumMeters': 145.50145398442163}, 
-        {"id":6,  "lat": 42.995760912, "lon": -78.797008395, "elevMSLmeters": 181.45, "heightMeters": 25.908, 'elevMSLcesiumMeters': 145.60428586515127}, 
-        {"id":7,  "lat": 42.995859001, "lon": -78.797163963, "elevMSLmeters": 181.55, "heightMeters": 25.908, 'elevMSLcesiumMeters': 145.66109386115315}, 
-        {"id":8,  "lat": 42.995776607, "lon": -78.797249794, "elevMSLmeters": 181.44, "heightMeters": 25.908, 'elevMSLcesiumMeters': 145.56989087457083}, 
-        {"id":9,  "lat": 42.995682441, "lon": -78.797335625, "elevMSLmeters": 181.39, "heightMeters": 25.908, 'elevMSLcesiumMeters': 145.46812142054682}, 
-        {"id":10, "lat": 42.995588276, "lon": -78.797437549, "elevMSLmeters": 181.36, "heightMeters": 25.908, 'elevMSLcesiumMeters': 145.36311960614483}, 
-        {"id":11, "lat": 42.995517651, "lon": -78.797298074, "elevMSLmeters": 181.10, "heightMeters": 25.908, 'elevMSLcesiumMeters': 145.3277339245705}, 
-        {"id":12, "lat": 42.995419562, "lon": -78.797147870, "elevMSLmeters": 180.91, "heightMeters": 25.908, 'elevMSLcesiumMeters': 145.24647413615065}, 
-        {"id":13, "lat": 42.995345014, "lon": -78.797003031, "elevMSLmeters": 180.62, "heightMeters": 25.908, 'elevMSLcesiumMeters': 145.06298133514252}
+        {"id":0,  "lat": 42.995254771, "lon": -78.796842098, "elevMSLmeters": 180.43, "heightMeters": 25.908, "elevMSLcesiumMeters": 144.847741210444}, 
+        {"id":1,  "lat": 42.995348937, "lon": -78.796745539, "elevMSLmeters": 180.61, "heightMeters": 25.908, "elevMSLcesiumMeters": 144.9459120558517}, 
+        {"id":2,  "lat": 42.995439180, "lon": -78.796648979, "elevMSLmeters": 180.69, "heightMeters": 25.908, "elevMSLcesiumMeters": 145.03806907152614}, 
+        {"id":3,  "lat": 42.995505881, "lon": -78.796557784, "elevMSLmeters": 180.86, "heightMeters": 25.908, "elevMSLcesiumMeters": 145.09670850492824}, 
+        {"id":4,  "lat": 42.995588276, "lon": -78.796713352, "elevMSLmeters": 181.16, "heightMeters": 25.908, "elevMSLcesiumMeters": 145.29735664989906}, 
+        {"id":5,  "lat": 42.995674594, "lon": -78.796863556, "elevMSLmeters": 181.33, "heightMeters": 25.908, "elevMSLcesiumMeters": 145.50145398442163}, 
+        {"id":6,  "lat": 42.995760912, "lon": -78.797008395, "elevMSLmeters": 181.45, "heightMeters": 25.908, "elevMSLcesiumMeters": 145.60428586515127}, 
+        {"id":7,  "lat": 42.995859001, "lon": -78.797163963, "elevMSLmeters": 181.55, "heightMeters": 25.908, "elevMSLcesiumMeters": 145.66109386115315}, 
+        {"id":8,  "lat": 42.995776607, "lon": -78.797249794, "elevMSLmeters": 181.44, "heightMeters": 25.908, "elevMSLcesiumMeters": 145.56989087457083}, 
+        {"id":9,  "lat": 42.995682441, "lon": -78.797335625, "elevMSLmeters": 181.39, "heightMeters": 25.908, "elevMSLcesiumMeters": 145.46812142054682}, 
+        {"id":10, "lat": 42.995588276, "lon": -78.797437549, "elevMSLmeters": 181.36, "heightMeters": 25.908, "elevMSLcesiumMeters": 145.36311960614483}, 
+        {"id":11, "lat": 42.995517651, "lon": -78.797298074, "elevMSLmeters": 181.10, "heightMeters": 25.908, "elevMSLcesiumMeters": 145.3277339245705}, 
+        {"id":12, "lat": 42.995419562, "lon": -78.797147870, "elevMSLmeters": 180.91, "heightMeters": 25.908, "elevMSLcesiumMeters": 145.24647413615065}, 
+        {"id":13, "lat": 42.995345014, "lon": -78.797003031, "elevMSLmeters": 180.62, "heightMeters": 25.908, "elevMSLcesiumMeters": 145.06298133514252}
     ],
     "lightsArray": [
         {"id": 0, "lat": 42.995436, "lon": -78.796742, "elevMeters": 180.74, "radius": 2, "heightMeters": 10.3},
