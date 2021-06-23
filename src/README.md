@@ -9,3 +9,5 @@ with urllib.request.urlopen("https://raw.githubusercontent.com/optimatorlab/SOAR
 
 soar_data
 ```
+
+A Jupyter notebook is available at [SOAR_data.ipynb](SOAR_data.ipynb)
