@@ -1,1 +1,1 @@
-{"polesArray" : [{"id":0,  "lat": 42.995254771, "lon": -78.796842098, "elevMSLmeters": 180.43, "height": 25.908}]}
+{"polesArray" : {"id":0,  "lat": 42.995254771, "lon": -78.796842098, "elevMSLmeters": 180.43, "height": 25.908}}
