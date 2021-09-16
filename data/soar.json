@@ -1,5 +1,5 @@
 {
-	"polesArrey" : [
+	"polesArray" : [
 		{"id":0,  "lat": 42.99525466, "lon": -78.79684403, "elevMSLmeters": 180.43, "heightMeters": 25.908, "elevMSLcesiumMeters": 146.579}, 
 		{"id":1,  "lat": 42.99534179, "lon": -78.79675314, "elevMSLmeters": 180.61, "heightMeters": 25.908, "elevMSLcesiumMeters": 146.570}, 
 		{"id":2,  "lat": 42.99542893, "lon": -78.79666224, "elevMSLmeters": 180.69, "heightMeters": 25.908, "elevMSLcesiumMeters": 146.565}, 
@@ -32,32 +32,3 @@
         "ceilingMetersAGL": 22
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
